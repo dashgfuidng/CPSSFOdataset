@@ -1,4 +1,4 @@
-# CPSSFO_DATASET
+#  Railway Catenary System Foreign Objects Dataset
 This is a data set used for foreign object intrusion detection on railway catenaries.
 
 It is classified into two categories: nest and Light debri.
